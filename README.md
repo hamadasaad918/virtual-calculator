@@ -1,2 +1,2 @@
 # virtual-calculator
-libraries : cv2 , cvzone 
+Virtual-Calculator-Based-On- OpenCV-And-Cvzone-With-Python
